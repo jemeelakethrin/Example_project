@@ -4,6 +4,7 @@ export default function sample() {
   return (
     <div>
       hi welcome
+      ggggs
       
     </div>
   )
